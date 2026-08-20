@@ -1,3 +1,2 @@
-# GIT_DEMO
-PROJECT 1
+# gti_pro
 THIS IS MY PROJECT
